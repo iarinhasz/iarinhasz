@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![C/C++](https://img.shields.io/badge/-C/C++-blue?&logo=c/c++)
 
-## Learning
+#### Learning
 
 ![JS](https://img.shields.io/badge/-Javascript-yellow?&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-purple?&logo=python)
