@@ -1,5 +1,5 @@
 # Hi there!
-
+#### Graduanda em engenharia da computação - Cin/UFPE
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
 
 ### Contact with me 📝
