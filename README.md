@@ -16,12 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://github.com/iarinhasz/iarinhasz/assets/91329879/d0eb5bb0-df3e-4da9-8317-06691570284c)
-![C](https://github.com/iarinhasz/iarinhasz/assets/91329879/1c621157-e4ce-494e-a250-715a84bd2f25)
-![C++](https://github.com/iarinhasz/iarinhasz/assets/91329879/1ef198d0-d418-4f10-b84e-973d38ac815a)
-![Javascript](https://github.com/iarinhasz/iarinhasz/assets/91329879/e972e662-19bb-4095-9b7f-6e2ee9e523f1)
-![SQL](https://github.com/iarinhasz/iarinhasz/assets/91329879/d9b62b11-9337-40d2-b519-62ba2f5b7c71)
-
+![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 <br/>
 
